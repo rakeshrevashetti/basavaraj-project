@@ -1,3 +1,9 @@
+
+variable "my-region" {
+  description = "enter your own region name here"
+}
+
+
 variable "ami-id" {
   description = "The AMI ID to use for the instance"
 }
